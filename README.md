@@ -23,7 +23,7 @@ Data Analysis
 
 ![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlopeFan77&show_icons=true&hide_border=true&theme=transparent)
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
