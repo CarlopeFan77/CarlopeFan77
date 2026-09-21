@@ -1,5 +1,8 @@
-## │  CARL ASKINS                            │
-## │  Chemistry • Engineering • Open Source  │
+## CARL ASKINS
+### Bachelor of Science in Chemistry 
+Dickinson State University, Dickinson, North Dakota
+
+May 2026
 
 ## CURRENTLY BUILDING
 
