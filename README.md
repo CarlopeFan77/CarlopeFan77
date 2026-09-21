@@ -1,16 +1,23 @@
-## Hi there 👋
+┌─────────────────────────────────────────┐
+│  CARL ASKINS                            │
+│  Chemistry • Engineering • Open Source  │
+└─────────────────────────────────────────┘
 
-<!--
-**CarlopeFan77/CarlopeFan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CURRENTLY BUILDING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Here are some ideas to get you started:
+⌚ E.V.
+   Personal AI / health-assistant watch
+   Python • ESP32 • Local LLMs • Obsidian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 NOMAD-Lite-ARM
+   A lightweight ARM64 offline knowledge environment inspired by Project NOMAD.
+
+EXPERIMENTS / INTERESTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧪 Chemistry
+🤖 Local AI & Agents
+⚙️ Embedded Systems
+🐧 Linux
+📊 Data Analysis
