@@ -10,8 +10,8 @@ May 2026
    Personal AI / health-assistant watch /
    Python • ESP32 • Local LLMs • Obsidian
 
-💻 NOMAD-Lite-ARM
-   A lightweight ARM64 / offline knowledge environment inspired by Project NOMAD.
+💻 NOMAD-Lite-ARM /
+lightweight ARM64 / Offline knowledge environment inspired by Project NOMAD.
 
 ### GitHub Activity
 
